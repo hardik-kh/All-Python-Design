@@ -7,7 +7,7 @@
 # Rainbow-Benzene 🌈
 <img src="rainbow-benzene.gif" width="1000" height="600" />
 
-# Star ⭐
+# Star 🌟
 <img src="star.gif" width="1000" height="600" />
 
 
