@@ -1,7 +1,7 @@
 # All-Python-Design
 ### These are some cool designs created in Python using Turtle
 
-# Rainbow-Spiral :spi
+# Rainbow-Spiral 
 <img src="rainbow-spiral.gif" width="1000" height="600" />
 
 # Rainbow-Benzene 🌈
