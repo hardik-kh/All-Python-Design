@@ -1,10 +1,10 @@
 # All-Python-Design
 ### These are some cool designs created in Python using Turtle
 
-# Rainbow-Spiral 
+# Rainbow-Spiral 🌈
 <img src="rainbow-spiral.gif" width="1100" height="600" />
 
-# Rainbow-Benzene 🌈
+# Tornado 🌪️
 <img src="rainbow-benzene.gif" width="1100" height="600" />
 
 # Star 🌟
